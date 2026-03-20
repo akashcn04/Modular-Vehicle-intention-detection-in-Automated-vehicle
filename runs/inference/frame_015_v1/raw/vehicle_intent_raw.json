@@ -1,0 +1,72 @@
+[
+  {
+    "class": "right_indicator",
+    "bbox": [
+      397,
+      419,
+      561,
+      543
+    ],
+    "confidence": 0.745
+  },
+  {
+    "class": "brake_light",
+    "bbox": [
+      935,
+      419,
+      1072,
+      509
+    ],
+    "confidence": 0.601
+  },
+  {
+    "class": "brake_light",
+    "bbox": [
+      486,
+      440,
+      929,
+      834
+    ],
+    "confidence": 0.496
+  },
+  {
+    "class": "vehicle",
+    "bbox": [
+      848,
+      366,
+      1158,
+      563
+    ],
+    "confidence": 0.356
+  },
+  {
+    "class": "right_indicator",
+    "bbox": [
+      487,
+      437,
+      931,
+      826
+    ],
+    "confidence": 0.282
+  },
+  {
+    "class": "vehicle",
+    "bbox": [
+      365,
+      360,
+      1159,
+      887
+    ],
+    "confidence": 0.261
+  },
+  {
+    "class": "vehicle",
+    "bbox": [
+      486,
+      439,
+      928,
+      831
+    ],
+    "confidence": 0.253
+  }
+]

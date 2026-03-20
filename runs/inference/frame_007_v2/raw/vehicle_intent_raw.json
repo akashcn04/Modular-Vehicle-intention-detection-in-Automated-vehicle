@@ -1,0 +1,32 @@
+[
+  {
+    "class": "brake_light",
+    "bbox": [
+      482,
+      486,
+      744,
+      697
+    ],
+    "confidence": 0.614
+  },
+  {
+    "class": "vehicle",
+    "bbox": [
+      396,
+      433,
+      829,
+      750
+    ],
+    "confidence": 0.535
+  },
+  {
+    "class": "right_indicator",
+    "bbox": [
+      483,
+      487,
+      744,
+      697
+    ],
+    "confidence": 0.484
+  }
+]

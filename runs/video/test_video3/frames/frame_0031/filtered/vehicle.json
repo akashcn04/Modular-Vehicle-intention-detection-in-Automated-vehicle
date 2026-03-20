@@ -1,0 +1,14 @@
+{
+  "vehicles": [
+    {
+      "class": "vehicle",
+      "bbox": [
+        477,
+        202,
+        524,
+        239
+      ],
+      "confidence": 0.869
+    }
+  ]
+}

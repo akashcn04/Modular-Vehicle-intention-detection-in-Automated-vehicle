@@ -1,0 +1,596 @@
+[
+  {
+    "frame": "frame_0000.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0001.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0002.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0003.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0004.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0005.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0006.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0007.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0008.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0009.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0010.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0011.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0012.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0013.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0014.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0015.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0016.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0017.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0018.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0019.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0020.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0021.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0022.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0023.jpg",
+    "traffic_light": "GREEN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0024.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0025.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0026.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0027.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0028.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0029.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0030.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0031.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0032.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0033.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0034.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0035.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0036.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0037.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0038.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0039.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0040.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0041.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0042.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0043.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0044.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0045.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0046.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0047.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0048.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0049.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0050.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0051.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0052.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0053.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0054.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0055.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0056.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0057.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0058.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0059.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0060.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0061.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0062.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0063.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0064.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  },
+  {
+    "frame": "frame_0065.jpg",
+    "traffic_light": "UNKNOWN",
+    "vehicle_present": true,
+    "decision": [
+      "SAFE",
+      0.0
+    ]
+  }
+]

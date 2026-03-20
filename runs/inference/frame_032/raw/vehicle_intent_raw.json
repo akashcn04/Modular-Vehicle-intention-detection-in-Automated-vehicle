@@ -1,0 +1,52 @@
+[
+  {
+    "class": "vehicle",
+    "bbox": [
+      1071,
+      635,
+      1268,
+      818
+    ],
+    "confidence": 0.918
+  },
+  {
+    "class": "vehicle",
+    "bbox": [
+      504,
+      650,
+      673,
+      793
+    ],
+    "confidence": 0.867
+  },
+  {
+    "class": "vehicle",
+    "bbox": [
+      906,
+      646,
+      995,
+      726
+    ],
+    "confidence": 0.741
+  },
+  {
+    "class": "vehicle",
+    "bbox": [
+      695,
+      667,
+      968,
+      901
+    ],
+    "confidence": 0.489
+  },
+  {
+    "class": "vehicle",
+    "bbox": [
+      688,
+      664,
+      751,
+      712
+    ],
+    "confidence": 0.275
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "class": "traffic_light_red",
+    "bbox": [
+      1573,
+      916,
+      1621,
+      982
+    ],
+    "confidence": 0.506
+  }
+]
